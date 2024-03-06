@@ -1,5 +1,9 @@
 ## ChangeLog
 
+#### Version 0.8.1 (15.03.2022)
+- Added support for Android 10+
+
+
 #### Version 0.8.0 (01.03.2019)
 - Most parts of the code has been rewritten
 - Added support for Android 8+
