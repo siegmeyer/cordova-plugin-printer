@@ -2,6 +2,10 @@
   "name": "cordova-plugin-printer",
   "version": "0.8.1",
   "description": "Prints HTML documents",
+  
+  "scripts": {
+    "build": "node build.js"
+  },
   "cordova": {
     "id": "cordova-plugin-printer",
     "platforms": [
@@ -24,20 +28,6 @@
     "cordova-android",
     "cordova-windows",
     "cordova-browser"
-  ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=3.0.0"
-    },
-    {
-      "name": "android-sdk",
-      "version": ">=19"
-    },
-    {
-      "name": "apple-ios",
-      "version": ">=8.0"
-    }
   ],
   "author": "Sebastián Katzer",
   "license": "Apache 2.0",
