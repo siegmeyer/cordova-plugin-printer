@@ -21,16 +21,16 @@
  under the License.
 -->
 
-<plugin id="cordova-plugin-printer"
+<plugin id="cordova-plugin-printer-de"
         xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        version="0.8.1">
+        version="0.8.2">
 
     <name>Printer</name>
 
     <description>Prints HTML content</description>
 
-    <repo>https://github.com/katzer/cordova-plugin-printer.git</repo>
+    <repo>https://github.com/siegmeyer/cordova-plugin-printer-de.git</repo>
 
     <keywords>appplant, printer, cordova</keywords>
 
